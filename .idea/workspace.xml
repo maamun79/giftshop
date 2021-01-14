@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1664424c-34e1-4467-a89a-e541a387f457" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="contact-requests.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/admin/contact-requests.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="26" column="206" lean-forward="false" selection-start-line="26" selection-start-column="186" selection-end-line="26" selection-end-column="206" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/admin/old-pages/actions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="3201" column="0" lean-forward="false" selection-start-line="3201" selection-start-column="0" selection-end-line="3289" selection-end-column="1" />
+              <folding>
+                <element signature="e#138419#140218#0#PHP" expanded="false" />
+                <element signature="e#140221#141716#0#PHP" expanded="false" />
+                <marker date="1608714028233" expanded="true" signature="5778:5876" ph="SELECT * FRO... TABLES" />
+                <marker date="1608714028233" expanded="true" signature="23407:23516" ph="SELECT * FRO... TABLES" />
+                <marker date="1608714028233" expanded="true" signature="36445:36552" ph="SELECT * FRO... TABLES" />
+                <marker date="1608714028233" expanded="true" signature="50427:50534" ph="SELECT * FRO... TABLES" />
+                <marker date="1608714028233" expanded="true" signature="148249:148346" ph="SELECT * FRO... TABLES" />
+                <marker date="1608714028233" expanded="true" signature="151234:151339" ph="SELECT * FRO... TABLES" />
+                <marker date="1608714028233" expanded="true" signature="298837:298863" ph="SELECT * FRO... suit_buttons" />
+                <marker date="1608714028233" expanded="true" signature="298942:298968" ph="SELECT * FRO... suit_buttons" />
+                <marker date="1608714028233" expanded="true" signature="300849:300878" ph="SELECT * FRO... suit_back_style" />
+                <marker date="1608714028233" expanded="true" signature="300957:300986" ph="SELECT * FRO... suit_back_style" />
+                <marker date="1608714028233" expanded="true" signature="302564:302596" ph="SELECT * FRO... suit_breast_pocket" />
+                <marker date="1608714028233" expanded="true" signature="302677:302709" ph="SELECT * FRO... suit_breast_pocket" />
+                <marker date="1608714028233" expanded="true" signature="304242:304266" ph="SELECT * FRO... suit_elbow" />
+                <marker date="1608714028233" expanded="true" signature="304348:304372" ph="SELECT * FRO... suit_elbow" />
+                <marker date="1608714028233" expanded="true" signature="306000:306026" ph="SELECT * FRO... suit_fitting" />
+                <marker date="1608714028233" expanded="true" signature="306106:306132" ph="SELECT * FRO... suit_fitting" />
+                <marker date="1608714028233" expanded="true" signature="307643:307668" ph="SELECT * FRO... suit_lapels" />
+                <marker date="1608714028233" expanded="true" signature="307749:307774" ph="SELECT * FRO... suit_lapels" />
+                <marker date="1608714028233" expanded="true" signature="309310:309340" ph="SELECT * FRO... suit_lapel_width" />
+                <marker date="1608714028233" expanded="true" signature="309421:309451" ph="SELECT * FRO... suit_lapel_width" />
+                <marker date="1608714028233" expanded="true" signature="311324:311349" ph="SELECT * FRO... suit_lining" />
+                <marker date="1608714028233" expanded="true" signature="311429:311454" ph="SELECT * FRO... suit_lining" />
+                <marker date="1608714028233" expanded="true" signature="313196:313221" ph="SELECT * FRO... suit_pocket" />
+                <marker date="1608714028233" expanded="true" signature="313302:313327" ph="SELECT * FRO... suit_pocket" />
+                <marker date="1608714028233" expanded="true" signature="314866:314898" ph="SELECT * FRO... suit_pocket_square" />
+                <marker date="1608714028233" expanded="true" signature="314979:315011" ph="SELECT * FRO... suit_pocket_square" />
+                <marker date="1608714028233" expanded="true" signature="316573:316605" ph="SELECT * FRO... suit_sleeve_button" />
+                <marker date="1608714028233" expanded="true" signature="316686:316718" ph="SELECT * FRO... suit_sleeve_button" />
+                <marker date="1608714028233" expanded="true" signature="318260:318297" ph="SELECT * FRO... suit_sleeve_button_hole" />
+                <marker date="1608714028233" expanded="true" signature="318378:318415" ph="SELECT * FRO... suit_sleeve_button_hole" />
+                <marker date="1608714028233" expanded="true" signature="319951:319975" ph="SELECT * FRO... suit_style" />
+                <marker date="1608714028233" expanded="true" signature="320055:320079" ph="SELECT * FRO... suit_style" />
+                <marker date="1608714028233" expanded="true" signature="321676:321705" ph="SELECT * FRO... suit_pant_cuffs" />
+                <marker date="1608714028233" expanded="true" signature="321785:321814" ph="SELECT * FRO... suit_pant_cuffs" />
+                <marker date="1608714028233" expanded="true" signature="323374:323407" ph="SELECT * FRO... suit_pant_fastening" />
+                <marker date="1608714028233" expanded="true" signature="323487:323520" ph="SELECT * FRO... suit_pant_fastening" />
+                <marker date="1608714028233" expanded="true" signature="325081:325112" ph="SELECT * FRO... suit_pant_fitting" />
+                <marker date="1608714028233" expanded="true" signature="325192:325223" ph="SELECT * FRO... suit_pant_fitting" />
+                <marker date="1608714028233" expanded="true" signature="326774:326804" ph="SELECT * FRO... suit_pant_plates" />
+                <marker date="1608714028233" expanded="true" signature="326884:326914" ph="SELECT * FRO... suit_pant_plates" />
+                <marker date="1608714028233" expanded="true" signature="328486:328517" ph="SELECT * FRO... suit_pant_pocket" />
+                <marker date="1608714028233" expanded="true" signature="328597:328628" ph="SELECT * FRO... suit_pant_pocket" />
+                <marker date="1608714028233" expanded="true" signature="330263:330301" ph="SELECT * FRO... suit_vest_breast_pocket" />
+                <marker date="1608714028233" expanded="true" signature="330381:330419" ph="SELECT * FRO... suit_vest_breast_pocket" />
+                <marker date="1608714028233" expanded="true" signature="332024:332053" ph="SELECT * FRO... suit_vest_edge" />
+                <marker date="1608714028233" expanded="true" signature="332133:332162" ph="SELECT * FRO... suit_vest_edge" />
+                <marker date="1608714028233" expanded="true" signature="333737:333773" ph="SELECT * FRO... suit_vest_front_pocket" />
+                <marker date="1608714028233" expanded="true" signature="333853:333889" ph="SELECT * FRO... suit_vest_front_pocket" />
+                <marker date="1608714028233" expanded="true" signature="335446:335476" ph="SELECT * FRO... suit_vest_lapels" />
+                <marker date="1608714028233" expanded="true" signature="335556:335586" ph="SELECT * FRO... suit_vest_lapels" />
+                <marker date="1608714028233" expanded="true" signature="337154:337183" ph="SELECT * FRO... suit_vest_style" />
+                <marker date="1608714028233" expanded="true" signature="337263:337292" ph="SELECT * FRO... suit_vest_style" />
+                <marker date="1608714028233" expanded="true" signature="338994:339024" ph="SELECT * FRO... suit_vest_fabric" />
+                <marker date="1608714028233" expanded="true" signature="339105:339135" ph="SELECT * FRO... suit_vest_fabric" />
+                <marker date="1608714028233" expanded="true" signature="341063:341093" ph="SELECT * FRO... suit_pant_fabric" />
+                <marker date="1608714028233" expanded="true" signature="341174:341204" ph="SELECT * FRO... suit_pant_fabric" />
+                <marker date="1608714028233" expanded="true" signature="343161:343193" ph="SELECT * FRO... suit_jacket_fabric" />
+                <marker date="1608714028233" expanded="true" signature="343273:343305" ph="SELECT * FRO... suit_jacket_fabric" />
+                <marker date="1608714028233" expanded="true" signature="345717:345740" ph="SELECT * FRO... mi_orders" />
+                <marker date="1608714028233" expanded="true" signature="345821:345844" ph="SELECT * FRO... mi_orders" />
+                <marker date="1608714028233" expanded="false" signature="347929:347963" ph="..." />
+                <marker date="1608714028233" expanded="false" signature="348092:348126" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="348488:349543" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="348596:348690" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="348797:348894" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="349001:349096" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="349203:349299" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="349406:349502" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="350578:350611" ph="SELECT * FRO... ladies_fabric_order" />
+                <marker date="1608714028233" expanded="true" signature="350692:350743" ph="SELECT * FRO... ladies_fabric_order" />
+                <marker date="1608714028233" expanded="false" signature="352383:352417" ph="..." />
+                <marker date="1608714028233" expanded="false" signature="352557:352591" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="352953:353977" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="353055:353149" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="353250:353345" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="353446:353542" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="353643:353739" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="353840:353936" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="355062:355083" ph="SELECT * FRO... fabrics" />
+                <marker date="1608714028233" expanded="true" signature="355164:355185" ph="SELECT * FRO... fabrics" />
+                <marker date="1608714028233" expanded="true" signature="356797:356814" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="356815:357471" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="356897:357448" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="357545:357562" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="357563:358290" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="357647:358267" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="358364:358381" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="358382:358945" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="358467:358922" ph="..." />
+                <marker date="1608714028233" expanded="true" signature="359906:359927" ph="SELECT * FRO... sleeves" />
+                <marker date="1608714028233" expanded="true" signature="360008:360029" ph="SELECT * FRO... sleeves" />
+                <marker date="1608714028233" expanded="true" signature="361576:361597" ph="SELECT * FRO... collars" />
+                <marker date="1608714028233" expanded="true" signature="361678:361699" ph="SELECT * FRO... collars" />
+                <marker date="1608714028233" expanded="true" signature="363501:363522" ph="SELECT * FRO... placket" />
+                <marker date="1608714028233" expanded="true" signature="363603:363624" ph="SELECT * FRO... placket" />
+                <marker date="1608714028233" expanded="true" signature="365475:365505" ph="SELECT * FRO... pocket_placement" />
+                <marker date="1608714028233" expanded="true" signature="365585:365615" ph="SELECT * FRO... pocket_placement" />
+                <marker date="1608714028233" expanded="true" signature="367180:367206" ph="SELECT * FRO... pocket_style" />
+                <marker date="1608714028233" expanded="true" signature="367287:367313" ph="SELECT * FRO... pocket_style" />
+                <marker date="1608714028233" expanded="true" signature="368889:368914" ph="SELECT * FRO... pocket_flap" />
+                <marker date="1608714028233" expanded="true" signature="368995:369020" ph="SELECT * FRO... pocket_flap" />
+                <marker date="1608714028233" expanded="true" signature="370695:370721" ph="SELECT * FRO... back_details" />
+                <marker date="1608714028233" expanded="true" signature="370802:370828" ph="SELECT * FRO... back_details" />
+                <marker date="1608714028233" expanded="true" signature="372377:372400" ph="SELECT * FRO... back_yoke" />
+                <marker date="1608714028233" expanded="true" signature="372481:372504" ph="SELECT * FRO... back_yoke" />
+                <marker date="1608714028233" expanded="true" signature="374071:374095" ph="SELECT * FRO... bottom_cut" />
+                <marker date="1608714028233" expanded="true" signature="374176:374200" ph="SELECT * FRO... bottom_cut" />
+                <marker date="1608714028233" expanded="true" signature="375847:375870" ph="SELECT * FRO... contrasts" />
+                <marker date="1608714028233" expanded="true" signature="375952:375975" ph="SELECT * FRO... contrasts" />
+                <marker date="1608714028233" expanded="true" signature="377536:377585" ph="SELECT * FRO... settings" />
+                <marker date="1608714028233" expanded="true" signature="377666:377688" ph="SELECT * FRO... settings" />
+                <marker date="1608714028233" expanded="true" signature="379296:379324" ph="SELECT * FRO... button_threads" />
+                <marker date="1608714028233" expanded="true" signature="379405:379433" ph="SELECT * FRO... button_threads" />
+                <marker date="1608714028233" expanded="true" signature="381780:381801" ph="SELECT * FRO... buttons" />
+                <marker date="1608714028233" expanded="true" signature="381881:381902" ph="SELECT * FRO... buttons" />
+                <marker date="1608714028233" expanded="true" signature="383976:384323" ph="SELECT ladie... ladies_fabric" />
+                <marker date="1608714028233" expanded="true" signature="384409:384756" ph="SELECT ladie... ladies_fabric" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/admin/actions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="2140" column="9" lean-forward="true" selection-start-line="2140" selection-start-column="9" selection-end-line="2140" selection-end-column="9" />
+              <folding>
+                <marker date="1610611591558" expanded="true" signature="3407:3433" ph="SELECT * FRO... topup_orders" />
+                <marker date="1610611591558" expanded="true" signature="3514:3540" ph="SELECT * FRO... topup_orders" />
+                <marker date="1610611591558" expanded="true" signature="5003:5853" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="5111:5205" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="5312:5406" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="5513:5609" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="5716:5812" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="7044:7074" ph="SELECT * FRO... gift_card_orders" />
+                <marker date="1610611591558" expanded="true" signature="7155:7185" ph="SELECT * FRO... gift_card_orders" />
+                <marker date="1610611591558" expanded="true" signature="8650:9500" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="8758:8852" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="8959:9053" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="9160:9256" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="9363:9459" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="10718:10747" ph="SELECT * FRO... currency_orders" />
+                <marker date="1610611591558" expanded="true" signature="10828:10857" ph="SELECT * FRO... currency_orders" />
+                <marker date="1610611591558" expanded="true" signature="13133:13983" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="13241:13335" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="13442:13536" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="13643:13739" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="13846:13942" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="43530:43544" ph="SELECT * FRO... topup_orders" />
+                <marker date="1610611591558" expanded="true" signature="43530:43554" ph="SELECT * FRO... game_topup" />
+                <marker date="1610611591558" expanded="true" signature="43635:43659" ph="SELECT * FRO... topup_orders" />
+                <marker date="1610611591558" expanded="true" signature="44867:45299" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="44969:45062" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="45163:45258" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="57342:57366" ph="SELECT * FRO... gift_cards" />
+                <marker date="1610611591558" expanded="true" signature="57447:57471" ph="SELECT * FRO... gift_cards" />
+                <marker date="1610611591558" expanded="true" signature="58761:59193" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="58863:58956" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="59057:59152" ph="..." />
+                <marker date="1610611591558" expanded="true" signature="81316:81330" ph="SELECT * FRO... game_topup" />
+                <marker date="1610611591558" expanded="true" signature="81316:81345" ph="SELECT * FRO... contact_requests" />
+                <marker date="1610611591558" expanded="true" signature="81426:81455" ph="SELECT * FRO... game_topup" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single-topup-order.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/view/admin/single-topup-order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="126" column="45" lean-forward="true" selection-start-line="126" selection-start-column="45" selection-end-line="126" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/admin/old-pages/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/admin/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="84" column="114" lean-forward="false" selection-start-line="84" selection-start-column="100" selection-end-line="84" selection-end-column="114" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/admin/old-pages/settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site-settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/admin/site-settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="729" column="86" lean-forward="false" selection-start-line="729" selection-start-column="60" selection-end-line="729" selection-end-column="86" />
+              <folding>
+                <element signature="e#19878#22704#0#PHP" expanded="false" />
+                <element signature="e#22915#25249#0#PHP" expanded="false" />
+                <element signature="e#25473#28518#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_all_orders</find>
+      <find>change_status_request</find>
+      <find>add</find>
+      <find>Free Shipping</find>
+      <find>prelo</find>
+      <find>$variations</find>
+      <find>get_redeems</find>
+      <find>active</find>
+      <find>add page</find>
+      <find>add role</find>
+      <find>get_topups</find>
+      <find>orderStatus</find>
+      <find>change_order_status_request</find>
+      <find>get_topup_orders</find>
+      <find>topup order</find>
+      <find>mi_db_delete</find>
+      <find>data dele</find>
+      <find>deleteOrder</find>
+      <find>topup-order</find>
+      <find>get_gift_cards</find>
+      <find>change_site_logo_submit</find>
+      <find>class=&quot;menu-categories border-0&quot;</find>
+      <find>change_footer_text_submit</find>
+      <find>change_footer_copyright_submit</find>
+      <find>change_copyright_link_submit</find>
+      <find>textarea</find>
+      <find>change_social_icon_submit</find>
+      <find>delete data</find>
+      <find>change_contact_info_submit</find>
+      <find>update_profile</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/view/mail-template/currency_order.php" />
+        <option value="$PROJECT_DIR$/view/mail-template/giftcard_order.php" />
+        <option value="$PROJECT_DIR$/view/mail-template/topup_order.php" />
+        <option value="$PROJECT_DIR$/view/track-order.php" />
+        <option value="$PROJECT_DIR$/view/inc/related-products.php" />
+        <option value="$PROJECT_DIR$/view/currency-order.php" />
+        <option value="$PROJECT_DIR$/view/single.php" />
+        <option value="$PROJECT_DIR$/view/card.php" />
+        <option value="$PROJECT_DIR$/view/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/view/archive.php" />
+        <option value="$PROJECT_DIR$/view/single-card-order.php" />
+        <option value="$PROJECT_DIR$/view/admin/admin-edit.php" />
+        <option value="$PROJECT_DIR$/view/admin/topup-orders.php" />
+        <option value="$PROJECT_DIR$/view/admin/card-orders.php" />
+        <option value="$PROJECT_DIR$/view/admin/single-card-order.php" />
+        <option value="$PROJECT_DIR$/view/admin/currency-orders.php" />
+        <option value="$PROJECT_DIR$/view/admin/single-currency-order.php" />
+        <option value="$PROJECT_DIR$/view/admin/admins.php" />
+        <option value="$PROJECT_DIR$/view/admin/index.php" />
+        <option value="$PROJECT_DIR$/view/inc/slider.php" />
+        <option value="$PROJECT_DIR$/view/index.php" />
+        <option value="$PROJECT_DIR$/view/admin/admin-roles.php" />
+        <option value="$PROJECT_DIR$/view/admin/assets/css/style.scss" />
+        <option value="$PROJECT_DIR$/view/admin/topup.php" />
+        <option value="$PROJECT_DIR$/view/admin/assets/css/mi.css" />
+        <option value="$PROJECT_DIR$/view/site-settings.php" />
+        <option value="$PROJECT_DIR$/view/admin/add-topup.php" />
+        <option value="$PROJECT_DIR$/view/admin/single-topup.php" />
+        <option value="$PROJECT_DIR$/view/admin/add-gift-card.php" />
+        <option value="$PROJECT_DIR$/view/admin/single-card.php" />
+        <option value="$PROJECT_DIR$/view/admin/assets/mi.js" />
+        <option value="$PROJECT_DIR$/view/admin/item-types.php" />
+        <option value="$PROJECT_DIR$/view/admin/item-redeems.php" />
+        <option value="$PROJECT_DIR$/view/admin/player-info.php" />
+        <option value="$PROJECT_DIR$/view/admin/gift-card.php" />
+        <option value="$PROJECT_DIR$/view/admin/card-types.php" />
+        <option value="$PROJECT_DIR$/view/admin/card-options.php" />
+        <option value="$PROJECT_DIR$/view/admin/exchange-methods.php" />
+        <option value="$PROJECT_DIR$/view/footer.php" />
+        <option value="$PROJECT_DIR$/view/admin/login.php" />
+        <option value="$PROJECT_DIR$/view/nav.php" />
+        <option value="$PROJECT_DIR$/view/contact.php" />
+        <option value="$PROJECT_DIR$/view/assets/js/mi.js" />
+        <option value="$PROJECT_DIR$/view/api/index.php" />
+        <option value="$PROJECT_DIR$/view/admin/sidebar.php" />
+        <option value="$PROJECT_DIR$/view/admin/contact-requests.php" />
+        <option value="$PROJECT_DIR$/view/admin/site-settings.php" />
+        <option value="$PROJECT_DIR$/view/admin/profile.php" />
+        <option value="$PROJECT_DIR$/view/admin/actions.php" />
+        <option value="$PROJECT_DIR$/view/admin/single-topup-order.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giftshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giftshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giftshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giftshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giftshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giftshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\giftshop\view\admin" />
+      <recent name="E:\xampp\htdocs\giftshop\view\mail-template" />
+      <recent name="E:\xampp\htdocs\giftshop\view\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\giftshop\view\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1664424c-34e1-4467-a89a-e541a387f457" name="Default" comment="" />
+      <created>1606575776235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606575776235</updated>
+      <workItem from="1609314472778" duration="24508000" />
+      <workItem from="1609393771487" duration="24248000" />
+      <workItem from="1609566878606" duration="29854000" />
+      <workItem from="1609654466398" duration="32175000" />
+      <workItem from="1609740443068" duration="18438000" />
+      <workItem from="1609825427503" duration="194000" />
+      <workItem from="1609913916862" duration="26201000" />
+      <workItem from="1609997369051" duration="23985000" />
+      <workItem from="1610126503680" duration="1614000" />
+      <workItem from="1610178656127" duration="4275000" />
+      <workItem from="1610259458474" duration="28682000" />
+      <workItem from="1610343369780" duration="28000" />
+      <workItem from="1610350230820" duration="11563000" />
+      <workItem from="1610421563219" duration="32915000" />
+      <workItem from="1610508118907" duration="25580000" />
+      <workItem from="1610603367907" duration="7736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="291996000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15833333" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/view/admin/old-pages/staffs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/card-orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/single-card-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/currency-orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/single-currency-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/admin-edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#7#48#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="35" column="88" lean-forward="false" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/assets/img/banner/banner-78.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/order-confirmation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/inc/slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/old-pages/add_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/admin-roles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="7" column="91" lean-forward="true" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="404" column="0" lean-forward="true" selection-start-line="404" selection-start-column="0" selection-end-line="404" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/admins.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/assets/css/mi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="258" column="41" lean-forward="false" selection-start-line="258" selection-start-column="41" selection-end-line="258" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/add-topup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="87" column="175" lean-forward="false" selection-start-line="87" selection-start-column="175" selection-end-line="87" selection-end-column="228" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/single-topup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="200" column="110" lean-forward="false" selection-start-line="200" selection-start-column="110" selection-end-line="200" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/single-card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="33" column="72" lean-forward="false" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/item-types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="84" column="143" lean-forward="false" selection-start-line="84" selection-start-column="143" selection-end-line="84" selection-end-column="143" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/item-redeems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="84" column="129" lean-forward="true" selection-start-line="84" selection-start-column="129" selection-end-line="84" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/player-info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="94" column="145" lean-forward="false" selection-start-line="94" selection-start-column="145" selection-end-line="94" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/card-types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="84" column="128" lean-forward="true" selection-start-line="84" selection-start-column="128" selection-end-line="84" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/card-options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="84" column="130" lean-forward="true" selection-start-line="84" selection-start-column="130" selection-end-line="84" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/exchange-methods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="105" column="130" lean-forward="true" selection-start-line="105" selection-start-column="130" selection-end-line="105" selection-end-column="154" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/assets/img/logo/logo-5.png" />
+    <entry file="file://$PROJECT_DIR$/view/admin/gift-card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/add-gift-card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="88" lean-forward="false" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/assets/img/slider/slider-50.jpg" />
+    <entry file="file://$PROJECT_DIR$/view/assets/img/banner/banner-77.jpg" />
+    <entry file="file://$PROJECT_DIR$/view/assets/img/banner/banner-80.jpg" />
+    <entry file="file://$PROJECT_DIR$/view/assets/img/icon-img/payment.png" />
+    <entry file="file://$PROJECT_DIR$/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="122" column="70" lean-forward="true" selection-start-line="122" selection-start-column="70" selection-end-line="122" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="32" column="113" lean-forward="false" selection-start-line="32" selection-start-column="113" selection-end-line="32" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/assets/mi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="106" column="40" lean-forward="false" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="176" column="65" lean-forward="true" selection-start-line="176" selection-start-column="65" selection-end-line="176" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/track-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/assets/js/mi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="485" column="49" lean-forward="false" selection-start-line="485" selection-start-column="49" selection-end-line="485" selection-end-column="49" />
+          <folding>
+            <marker date="1610606981893" expanded="true" signature="998:1445" ph="..." />
+            <marker date="1610606981893" expanded="true" signature="1062:1408" ph="..." />
+            <marker date="1610606981893" expanded="true" signature="3462:3890" ph="..." />
+            <marker date="1610606981893" expanded="true" signature="3526:3853" ph="..." />
+            <marker date="1610606981893" expanded="true" signature="6398:6813" ph="..." />
+            <marker date="1610606981893" expanded="true" signature="6462:6776" ph="..." />
+            <marker date="1610606981893" expanded="true" signature="12938:13119" ph="..." />
+            <marker date="1610606981893" expanded="false" signature="13039:13054" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="46" column="68" lean-forward="false" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/api/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="389" column="44" lean-forward="false" selection-start-line="389" selection-start-column="44" selection-end-line="389" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/topup-orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="202" lean-forward="false" selection-start-line="22" selection-start-column="186" selection-end-line="22" selection-end-column="202" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="196" column="75" lean-forward="false" selection-start-line="196" selection-start-column="75" selection-end-line="196" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/topup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/contact-requests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="26" column="206" lean-forward="false" selection-start-line="26" selection-start-column="186" selection-end-line="26" selection-end-column="206" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/old-pages/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/site-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="729" column="86" lean-forward="false" selection-start-line="729" selection-start-column="60" selection-end-line="729" selection-end-column="86" />
+          <folding>
+            <element signature="e#19878#22704#0#PHP" expanded="false" />
+            <element signature="e#22915#25249#0#PHP" expanded="false" />
+            <element signature="e#25473#28518#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/old-pages/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="84" column="114" lean-forward="false" selection-start-line="84" selection-start-column="100" selection-end-line="84" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/old-pages/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="3201" column="0" lean-forward="false" selection-start-line="3201" selection-start-column="0" selection-end-line="3289" selection-end-column="1" />
+          <folding>
+            <element signature="e#138419#140218#0#PHP" expanded="false" />
+            <element signature="e#140221#141716#0#PHP" expanded="false" />
+            <marker date="1608714028233" expanded="true" signature="5778:5876" ph="SELECT * FRO... TABLES" />
+            <marker date="1608714028233" expanded="true" signature="23407:23516" ph="SELECT * FRO... TABLES" />
+            <marker date="1608714028233" expanded="true" signature="36445:36552" ph="SELECT * FRO... TABLES" />
+            <marker date="1608714028233" expanded="true" signature="50427:50534" ph="SELECT * FRO... TABLES" />
+            <marker date="1608714028233" expanded="true" signature="148249:148346" ph="SELECT * FRO... TABLES" />
+            <marker date="1608714028233" expanded="true" signature="151234:151339" ph="SELECT * FRO... TABLES" />
+            <marker date="1608714028233" expanded="true" signature="298837:298863" ph="SELECT * FRO... suit_buttons" />
+            <marker date="1608714028233" expanded="true" signature="298942:298968" ph="SELECT * FRO... suit_buttons" />
+            <marker date="1608714028233" expanded="true" signature="300849:300878" ph="SELECT * FRO... suit_back_style" />
+            <marker date="1608714028233" expanded="true" signature="300957:300986" ph="SELECT * FRO... suit_back_style" />
+            <marker date="1608714028233" expanded="true" signature="302564:302596" ph="SELECT * FRO... suit_breast_pocket" />
+            <marker date="1608714028233" expanded="true" signature="302677:302709" ph="SELECT * FRO... suit_breast_pocket" />
+            <marker date="1608714028233" expanded="true" signature="304242:304266" ph="SELECT * FRO... suit_elbow" />
+            <marker date="1608714028233" expanded="true" signature="304348:304372" ph="SELECT * FRO... suit_elbow" />
+            <marker date="1608714028233" expanded="true" signature="306000:306026" ph="SELECT * FRO... suit_fitting" />
+            <marker date="1608714028233" expanded="true" signature="306106:306132" ph="SELECT * FRO... suit_fitting" />
+            <marker date="1608714028233" expanded="true" signature="307643:307668" ph="SELECT * FRO... suit_lapels" />
+            <marker date="1608714028233" expanded="true" signature="307749:307774" ph="SELECT * FRO... suit_lapels" />
+            <marker date="1608714028233" expanded="true" signature="309310:309340" ph="SELECT * FRO... suit_lapel_width" />
+            <marker date="1608714028233" expanded="true" signature="309421:309451" ph="SELECT * FRO... suit_lapel_width" />
+            <marker date="1608714028233" expanded="true" signature="311324:311349" ph="SELECT * FRO... suit_lining" />
+            <marker date="1608714028233" expanded="true" signature="311429:311454" ph="SELECT * FRO... suit_lining" />
+            <marker date="1608714028233" expanded="true" signature="313196:313221" ph="SELECT * FRO... suit_pocket" />
+            <marker date="1608714028233" expanded="true" signature="313302:313327" ph="SELECT * FRO... suit_pocket" />
+            <marker date="1608714028233" expanded="true" signature="314866:314898" ph="SELECT * FRO... suit_pocket_square" />
+            <marker date="1608714028233" expanded="true" signature="314979:315011" ph="SELECT * FRO... suit_pocket_square" />
+            <marker date="1608714028233" expanded="true" signature="316573:316605" ph="SELECT * FRO... suit_sleeve_button" />
+            <marker date="1608714028233" expanded="true" signature="316686:316718" ph="SELECT * FRO... suit_sleeve_button" />
+            <marker date="1608714028233" expanded="true" signature="318260:318297" ph="SELECT * FRO... suit_sleeve_button_hole" />
+            <marker date="1608714028233" expanded="true" signature="318378:318415" ph="SELECT * FRO... suit_sleeve_button_hole" />
+            <marker date="1608714028233" expanded="true" signature="319951:319975" ph="SELECT * FRO... suit_style" />
+            <marker date="1608714028233" expanded="true" signature="320055:320079" ph="SELECT * FRO... suit_style" />
+            <marker date="1608714028233" expanded="true" signature="321676:321705" ph="SELECT * FRO... suit_pant_cuffs" />
+            <marker date="1608714028233" expanded="true" signature="321785:321814" ph="SELECT * FRO... suit_pant_cuffs" />
+            <marker date="1608714028233" expanded="true" signature="323374:323407" ph="SELECT * FRO... suit_pant_fastening" />
+            <marker date="1608714028233" expanded="true" signature="323487:323520" ph="SELECT * FRO... suit_pant_fastening" />
+            <marker date="1608714028233" expanded="true" signature="325081:325112" ph="SELECT * FRO... suit_pant_fitting" />
+            <marker date="1608714028233" expanded="true" signature="325192:325223" ph="SELECT * FRO... suit_pant_fitting" />
+            <marker date="1608714028233" expanded="true" signature="326774:326804" ph="SELECT * FRO... suit_pant_plates" />
+            <marker date="1608714028233" expanded="true" signature="326884:326914" ph="SELECT * FRO... suit_pant_plates" />
+            <marker date="1608714028233" expanded="true" signature="328486:328517" ph="SELECT * FRO... suit_pant_pocket" />
+            <marker date="1608714028233" expanded="true" signature="328597:328628" ph="SELECT * FRO... suit_pant_pocket" />
+            <marker date="1608714028233" expanded="true" signature="330263:330301" ph="SELECT * FRO... suit_vest_breast_pocket" />
+            <marker date="1608714028233" expanded="true" signature="330381:330419" ph="SELECT * FRO... suit_vest_breast_pocket" />
+            <marker date="1608714028233" expanded="true" signature="332024:332053" ph="SELECT * FRO... suit_vest_edge" />
+            <marker date="1608714028233" expanded="true" signature="332133:332162" ph="SELECT * FRO... suit_vest_edge" />
+            <marker date="1608714028233" expanded="true" signature="333737:333773" ph="SELECT * FRO... suit_vest_front_pocket" />
+            <marker date="1608714028233" expanded="true" signature="333853:333889" ph="SELECT * FRO... suit_vest_front_pocket" />
+            <marker date="1608714028233" expanded="true" signature="335446:335476" ph="SELECT * FRO... suit_vest_lapels" />
+            <marker date="1608714028233" expanded="true" signature="335556:335586" ph="SELECT * FRO... suit_vest_lapels" />
+            <marker date="1608714028233" expanded="true" signature="337154:337183" ph="SELECT * FRO... suit_vest_style" />
+            <marker date="1608714028233" expanded="true" signature="337263:337292" ph="SELECT * FRO... suit_vest_style" />
+            <marker date="1608714028233" expanded="true" signature="338994:339024" ph="SELECT * FRO... suit_vest_fabric" />
+            <marker date="1608714028233" expanded="true" signature="339105:339135" ph="SELECT * FRO... suit_vest_fabric" />
+            <marker date="1608714028233" expanded="true" signature="341063:341093" ph="SELECT * FRO... suit_pant_fabric" />
+            <marker date="1608714028233" expanded="true" signature="341174:341204" ph="SELECT * FRO... suit_pant_fabric" />
+            <marker date="1608714028233" expanded="true" signature="343161:343193" ph="SELECT * FRO... suit_jacket_fabric" />
+            <marker date="1608714028233" expanded="true" signature="343273:343305" ph="SELECT * FRO... suit_jacket_fabric" />
+            <marker date="1608714028233" expanded="true" signature="345717:345740" ph="SELECT * FRO... mi_orders" />
+            <marker date="1608714028233" expanded="true" signature="345821:345844" ph="SELECT * FRO... mi_orders" />
+            <marker date="1608714028233" expanded="false" signature="347929:347963" ph="..." />
+            <marker date="1608714028233" expanded="false" signature="348092:348126" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="348488:349543" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="348596:348690" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="348797:348894" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="349001:349096" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="349203:349299" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="349406:349502" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="350578:350611" ph="SELECT * FRO... ladies_fabric_order" />
+            <marker date="1608714028233" expanded="true" signature="350692:350743" ph="SELECT * FRO... ladies_fabric_order" />
+            <marker date="1608714028233" expanded="false" signature="352383:352417" ph="..." />
+            <marker date="1608714028233" expanded="false" signature="352557:352591" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="352953:353977" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="353055:353149" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="353250:353345" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="353446:353542" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="353643:353739" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="353840:353936" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="355062:355083" ph="SELECT * FRO... fabrics" />
+            <marker date="1608714028233" expanded="true" signature="355164:355185" ph="SELECT * FRO... fabrics" />
+            <marker date="1608714028233" expanded="true" signature="356797:356814" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="356815:357471" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="356897:357448" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="357545:357562" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="357563:358290" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="357647:358267" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="358364:358381" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="358382:358945" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="358467:358922" ph="..." />
+            <marker date="1608714028233" expanded="true" signature="359906:359927" ph="SELECT * FRO... sleeves" />
+            <marker date="1608714028233" expanded="true" signature="360008:360029" ph="SELECT * FRO... sleeves" />
+            <marker date="1608714028233" expanded="true" signature="361576:361597" ph="SELECT * FRO... collars" />
+            <marker date="1608714028233" expanded="true" signature="361678:361699" ph="SELECT * FRO... collars" />
+            <marker date="1608714028233" expanded="true" signature="363501:363522" ph="SELECT * FRO... placket" />
+            <marker date="1608714028233" expanded="true" signature="363603:363624" ph="SELECT * FRO... placket" />
+            <marker date="1608714028233" expanded="true" signature="365475:365505" ph="SELECT * FRO... pocket_placement" />
+            <marker date="1608714028233" expanded="true" signature="365585:365615" ph="SELECT * FRO... pocket_placement" />
+            <marker date="1608714028233" expanded="true" signature="367180:367206" ph="SELECT * FRO... pocket_style" />
+            <marker date="1608714028233" expanded="true" signature="367287:367313" ph="SELECT * FRO... pocket_style" />
+            <marker date="1608714028233" expanded="true" signature="368889:368914" ph="SELECT * FRO... pocket_flap" />
+            <marker date="1608714028233" expanded="true" signature="368995:369020" ph="SELECT * FRO... pocket_flap" />
+            <marker date="1608714028233" expanded="true" signature="370695:370721" ph="SELECT * FRO... back_details" />
+            <marker date="1608714028233" expanded="true" signature="370802:370828" ph="SELECT * FRO... back_details" />
+            <marker date="1608714028233" expanded="true" signature="372377:372400" ph="SELECT * FRO... back_yoke" />
+            <marker date="1608714028233" expanded="true" signature="372481:372504" ph="SELECT * FRO... back_yoke" />
+            <marker date="1608714028233" expanded="true" signature="374071:374095" ph="SELECT * FRO... bottom_cut" />
+            <marker date="1608714028233" expanded="true" signature="374176:374200" ph="SELECT * FRO... bottom_cut" />
+            <marker date="1608714028233" expanded="true" signature="375847:375870" ph="SELECT * FRO... contrasts" />
+            <marker date="1608714028233" expanded="true" signature="375952:375975" ph="SELECT * FRO... contrasts" />
+            <marker date="1608714028233" expanded="true" signature="377536:377585" ph="SELECT * FRO... settings" />
+            <marker date="1608714028233" expanded="true" signature="377666:377688" ph="SELECT * FRO... settings" />
+            <marker date="1608714028233" expanded="true" signature="379296:379324" ph="SELECT * FRO... button_threads" />
+            <marker date="1608714028233" expanded="true" signature="379405:379433" ph="SELECT * FRO... button_threads" />
+            <marker date="1608714028233" expanded="true" signature="381780:381801" ph="SELECT * FRO... buttons" />
+            <marker date="1608714028233" expanded="true" signature="381881:381902" ph="SELECT * FRO... buttons" />
+            <marker date="1608714028233" expanded="true" signature="383976:384323" ph="SELECT ladie... ladies_fabric" />
+            <marker date="1608714028233" expanded="true" signature="384409:384756" ph="SELECT ladie... ladies_fabric" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="2140" column="9" lean-forward="true" selection-start-line="2140" selection-start-column="9" selection-end-line="2140" selection-end-column="9" />
+          <folding>
+            <marker date="1610611591558" expanded="true" signature="3407:3433" ph="SELECT * FRO... topup_orders" />
+            <marker date="1610611591558" expanded="true" signature="3514:3540" ph="SELECT * FRO... topup_orders" />
+            <marker date="1610611591558" expanded="true" signature="5003:5853" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="5111:5205" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="5312:5406" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="5513:5609" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="5716:5812" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="7044:7074" ph="SELECT * FRO... gift_card_orders" />
+            <marker date="1610611591558" expanded="true" signature="7155:7185" ph="SELECT * FRO... gift_card_orders" />
+            <marker date="1610611591558" expanded="true" signature="8650:9500" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="8758:8852" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="8959:9053" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="9160:9256" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="9363:9459" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="10718:10747" ph="SELECT * FRO... currency_orders" />
+            <marker date="1610611591558" expanded="true" signature="10828:10857" ph="SELECT * FRO... currency_orders" />
+            <marker date="1610611591558" expanded="true" signature="13133:13983" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="13241:13335" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="13442:13536" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="13643:13739" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="13846:13942" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="43530:43544" ph="SELECT * FRO... topup_orders" />
+            <marker date="1610611591558" expanded="true" signature="43530:43554" ph="SELECT * FRO... game_topup" />
+            <marker date="1610611591558" expanded="true" signature="43635:43659" ph="SELECT * FRO... topup_orders" />
+            <marker date="1610611591558" expanded="true" signature="44867:45299" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="44969:45062" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="45163:45258" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="57342:57366" ph="SELECT * FRO... gift_cards" />
+            <marker date="1610611591558" expanded="true" signature="57447:57471" ph="SELECT * FRO... gift_cards" />
+            <marker date="1610611591558" expanded="true" signature="58761:59193" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="58863:58956" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="59057:59152" ph="..." />
+            <marker date="1610611591558" expanded="true" signature="81316:81330" ph="SELECT * FRO... game_topup" />
+            <marker date="1610611591558" expanded="true" signature="81316:81345" ph="SELECT * FRO... contact_requests" />
+            <marker date="1610611591558" expanded="true" signature="81426:81455" ph="SELECT * FRO... game_topup" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/admin/single-topup-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="126" column="45" lean-forward="true" selection-start-line="126" selection-start-column="45" selection-end-line="126" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

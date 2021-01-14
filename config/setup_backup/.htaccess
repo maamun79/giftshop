@@ -1,0 +1,6 @@
+Options +FollowSymLinks -MultiViews
+RewriteEngine on
+
+php_value include_path "../../"
+php_value auto_prepend_file "functions.php"
+
